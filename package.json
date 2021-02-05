@@ -1,13 +1,12 @@
 {
   "scripts": {
-    "start": "micro"
+    "start": "node server"
   },
   "dependencies": {
     "basic-ftp": "^4.6.3",
     "content-disposition": "^0.5.3",
-    "micro": "^9.3.4"
-  },
-  "devDependencies": {
-    "micro-dev": "^3.0.0"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   }
 }
