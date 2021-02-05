@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "basic-ftp": "^4.6.3",
+    "content-disposition": "^0.5.3",
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
