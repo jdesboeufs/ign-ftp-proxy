@@ -2,6 +2,23 @@
 
 Petit proxy HTTP vers FTP, verrouillé sur ftp3.ign.fr
 
+## Pré-requis
+
+- Node.js 12+
+- yarn
+
+## Installation
+
+```bash
+yarn
+```
+
+## Démarrage du serveur
+
+```bash
+yarn start
+```
+
 ## Utilisation
 
 http://localhost:5000/ + URL
